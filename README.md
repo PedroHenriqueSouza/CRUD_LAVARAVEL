@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # CRUD LAVARAVEL
+=======
+# CRUD_LAVARAVEL
+  
+>>>>>>> 8a38e9e6e8b5accf9fe7aa1cd3e41e158bd7803b
 
 ###  Executar o projeto
 
